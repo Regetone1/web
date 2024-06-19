@@ -1,0 +1,64 @@
+body {
+    background-color: #005780;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+.nav_bar {
+    font-size: 30px;
+    font-weight: bold;
+}
+.container {
+    margin-top: 30зч;
+}
+.row {
+}
+.my_photo {
+    background: url(../image/sf.png) no-repeat center center;
+    background-size: 100%;
+    width: 350px;
+    height: 350px;
+}
+.nav_logo {
+    background: url(../image/logo.png) no-repeat center center;
+    background-size: 100%;
+    width: 110px;
+    height: 95px;
+}
+.nav_text {
+    display: flex;
+    align-items: center;
+    justify-content: right;
+}
+.col-8 {
+}
+.col-4 {
+}
+.col-3.nav_logo {
+}
+.col-9 {
+}
+.nav_text {
+}
+.img_size {
+}
+.title_photo {
+    text-align: center;
+}
+.button_js {
+    text-align: center;
+}
+
+#myButton {
+    border: none;
+    border-radius: 15px;
+    width: 150px;
+    height: 50px;
+    background-color: #a30f0f;
+    color: #fff;
+    font-weight: bold;
+}
+
+#demo img {
+    margin-top: 20px;
+    width: 25%;
+}
